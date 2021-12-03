@@ -1,0 +1,14 @@
+db.sqlite3
+**/migrations
+env.py
+
+**/test.ipynb
+
+**/venv
+**/bin
+**/share
+**/lib*
+**/include
+**/__pycache__
+**/*.pyc
+pyvenv.cfg
